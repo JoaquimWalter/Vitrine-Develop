@@ -2,7 +2,7 @@
 
 
 ## 📖 Descrição
-**Vitrine Dev** é uma aplicação web pessoal que funciona como portfólio para o desenvolvedor, exibindo experiências, habilidades, projetos e informações de contato. Este projeto foi desenvolvido por **Joaquim Walter**, desenvolvedor Full Stack, utilizando HTML, CSS e JavaScript.
+**Vitrine Dev** é uma aplicação web pessoal que funciona como portfólio para o desenvolvedor Joaquim Walter, exibindo experiências, habilidades, projetos e informações de contato. Desenvolvedor Full Stack, utilizando HTML, CSS e JavaScript.
 
 ---
 
@@ -42,9 +42,6 @@
 
 🔗 Links Importantes
 
-Website hospedado 🌐: Vitrine Dev
-
-GitHub 🐱‍💻: Repositório Vitrine Dev
 
 📫 Contato
 
@@ -59,6 +56,14 @@ LinkedIn: linkedin.com/in/joaquim-walter
 GitHub: github.com/JoaquimWalter
 
 Instagram: @joaquimwalter5
+
+---
+
+🌐 Deploy
+
+O site está hospedado na Vercel, com carregamento rápido e entrega via CDN.
+
+## V
 
 
 ![Vitrine Dev - Google Chrome 22_05_2025 22_04_33](https://github.com/user-attachments/assets/6875f853-47ea-4e93-9e2a-5fc731197319)
